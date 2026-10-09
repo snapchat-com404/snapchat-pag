@@ -1,2 +1,0 @@
-# snapchat-pag
-snapchat-pag
